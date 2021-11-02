@@ -10,7 +10,7 @@ width = 350
 mode = 1
 delay_time = 0.01
 min_pos = 250
-screen = turtle.getscreen()
+screen = turtle.Screen()
 screen.title('Game')
 screen.setup(length, width)
 screen.bgcolor('#000011')
